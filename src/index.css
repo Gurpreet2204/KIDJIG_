@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  body {
+    @apply font-outfit;
+  }
+}
+
+
+.background-image {
+  background-image: url("https://s3-alpha-sig.figma.com/img/734f/2851/757355040aa84c8180bf8a118508ec5d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=npYRNpCM8oDFwPRiO6l~FbN1zG1lEJbkoYyqEMMF-YQhLEPWCeA~ccnpkAhhEHsY~x8I6q1AGF8OC-G8d53tmvcNv-l20MlCF8xh8~t7WPoissIzuWVn-KSxkF~nkA0XsvQ3lm1UFBDROoSc~zTPqgaDxWakVc27toYzWDgypXn0XvnnWO4t8pb1QfONvpg9Ec0-mSkeTKaYvRdzFfpi10X-datkpYE5pFNeIz6sy-XMSQ19krLJIX-ACuU~lUhi1KwKXGIioxv40pMTTOvI8Oxkrh0vhlQVKv7hyRyJU43AUDYs1q--ySdsumolIBFpX8bxDdUBsoWjK4WBFeb9wQ__");
+ 
+}
+.bg-nav {
+  background-image: url("D:\Kidjig_tech\src\assets\images\Rectangle 1.png");
+}
+.ellipse-img {
+  background-image: url("D:\Kidjig_tech\src\assets\images\Ellipse 1.png");
+  
+}
+
+.ellipse-img2 {
+  background-image: url("D:\Kidjig_tech\src\assets\images\Ellipse 2.png");
+  position: absolute;
+ 
+}
